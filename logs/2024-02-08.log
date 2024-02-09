@@ -1,0 +1,240 @@
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 22:14:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 22:20:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 200 message:  Time response: 42 ms Request ID: [2788148c-a269-4475-99b0-ab13d10f865d]
+
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 22:26:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"jugador lolo","id_position":4}
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 22:33:30 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"jugador lolo","id_position":4}
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 22:38:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"jugador lolo","id_position":4}
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:06:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 401 message:  Time response: 84 ms Request ID: [7bda5878-9fcd-4556-b01f-f7871cfbe746]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:07:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 39 ms Request ID: [fd2f355e-07e7-45f7-8b27-b3c31d1e5949]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:08:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 114 ms Request ID: [9a833b3b-40c3-41e7-bd7d-b34d40eab7e0]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:09:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 233 ms Request ID: [39553680-e6b5-43f2-ba57-6b7134545968]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:16:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 211 ms Request ID: [dd80a241-cfa5-4034-aa0e-56cb305d712d]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:17:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 250 ms Request ID: [32290e7d-54d9-422e-b212-647a2aab46bd]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:18:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 218 ms Request ID: [06a019b0-172c-4718-85e0-01a5f1593d09]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:19:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 415 ms Request ID: [10d8f912-4470-4f48-b812-18809099d3e9]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:21:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 212 ms Request ID: [ba1ee5e7-d430-4987-bae2-cbb8eb6ffaa3]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:22:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 501 ms Request ID: [105b160b-fb22-4411-bcd6-0d0c4fb47e6d]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:26:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 239 ms Request ID: [99d136b0-99f9-4087-ab75-3c36ef97b199]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:44:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 500 message:  Time response: 258 ms Request ID: [5d6eeec7-f638-4e54-8adf-91c3bf9ded25]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:44:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 201 message:  Time response: 298 ms Request ID: [994b0d72-e9f5-44b6-8e98-055b51660585]
+
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 12:58:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"jugador lolo","id_position":4}
+Completed: 200 message:  Time response: 276 ms Request ID: [fd767e39-5d67-4336-8419-f4eaac233d53]
+
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 13:58:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"renne Egita","id_position":4}
+Completed: 201 message:  Time response: 432 ms Request ID: [c7d36072-39c7-4ef8-a1d4-b2b887448951]
+
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 14:16:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [f75fd3a2-81cb-4229-b00a-bc1f520ce73a]
+
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 15:20:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 15:23:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 15:24:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 15:26:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 15:28:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 15:33:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 186 ms Request ID: [6350fc96-a3f0-4596-af6d-13506b333875]
+
+Started GET /equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 16:09:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 47 ms Request ID: [0b63ea2b-4448-43ab-8c04-bca152bd6d51]
+
+Started GET /equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 16:55:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 77 ms Request ID: [144e8f11-0589-4062-b79c-073c512100e2]
+
+Started GET /equipos/api/v1/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 16:55:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [84e08bc7-efdf-4b38-9c89-f0700dfd78c3]
+
+Started GET /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 16:57:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 16:58:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 251 ms Request ID: [a6a2d057-ff89-4031-8830-f0ab6df39ce5]
+
+Started GET /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:06:09 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 246 ms Request ID: [d0b8e409-e38c-4343-8438-4c9e01e77c42]
+
+Started GET /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:11:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 266 ms Request ID: [a1ddc352-69f7-4f2e-916c-08684950d2e8]
+
+Started POST /api/v1/equipos/1/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:36:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Josef Martinez","id_position":1}
+Completed: 400 message:  Time response: 387 ms Request ID: [b6f15701-fc0d-45a6-a19d-7cebe6e1722f]
+
+Started POST /api/v1/equipos/1/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:38:11 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Josef Martinez","id_position":1}
+Completed: 400 message:  Time response: 315 ms Request ID: [0d518833-4556-4a7c-ab2e-6e44299ac58a]
+
+Started POST /api/v1/equipos/1/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:39:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Josef Martinez","id_position":1}
+Completed: 201 message:  Time response: 340 ms Request ID: [1d0d4917-9011-463d-8991-65004d2130b7]
+
+Started POST /api/v1/equipos/2/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:40:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Jesus Fernandez","id_position":3}
+Completed: 201 message:  Time response: 362 ms Request ID: [66dd50ca-2ccd-4a21-a665-0ba2a2b072ca]
+
+Started POST /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:43:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Mathias Suarez","id_position":2}
+Completed: 201 message:  Time response: 289 ms Request ID: [a5aa2a97-5399-493a-a3ba-eeec8f5cafd7]
+
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:44:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 286 ms Request ID: [0dea0db5-40f3-4b25-843e-6b1805911744]
+
+Started GET /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:44:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 62 ms Request ID: [a38570dc-796c-4aae-8d9c-40e0b96e09ea]
+
+Started GET /api/v1/equipos/2/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:45:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 267 ms Request ID: [fb24b79d-0ad6-449c-8568-d50681d7f15a]
+
+Started GET /api/v1/equipos/1/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:45:10 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 23 ms Request ID: [2667e6dd-345e-4447-964f-b68d6d78faaf]
+
+Started GET /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:45:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 22 ms Request ID: [2814ec43-84e4-46d2-bb70-07c5d67c2b8b]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:48:01 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 200 message:  Time response: 16 ms Request ID: [72366237-f45a-42a0-af0c-bcd7eb18611b]
+
+Started POST /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 17:48:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Mathias Suarez","id_position":2}
+Completed: 401 message:  Time response: 18 ms Request ID: [ff4255bf-5b66-4bb9-ac42-5a1917ee9cff]
+
+Started POST /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:02:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Mathias Suarez","id_position":2}
+Completed: 401 message:  Time response: 59 ms Request ID: [9e154c5c-813b-42bb-a3e4-8628cc4c7ee6]
+
+Started POST /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:05:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Mathias Suarez","id_position":2}
+Completed: 401 message:  Time response: 76 ms Request ID: [5fb94aab-874a-4dcc-83d5-6415e71fdfb9]
+
+Started POST /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:09:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Mathias Suarez","id_position":2}
+Completed: 401 message:  Time response: 13 ms Request ID: [f7fa7ae8-2e1c-48e4-8062-37771d71c341]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:10:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 401 message:  Time response: 25 ms Request ID: [ea346fdc-8371-4d70-93c7-a894a47e7535]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:10:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 401 message:  Time response: 15 ms Request ID: [94975fe7-d36c-42b7-86b9-9ac9d83713c5]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:11:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"BARCELONA"}
+Completed: 401 message:  Time response: 14 ms Request ID: [60956bc6-4359-4794-be00-4683a9d7a243]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:11:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"123"}
+Completed: 400 message:  Time response: 14 ms Request ID: [168c8669-9de5-47d3-8afb-fbe23e48c29d]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:11:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"","password":"1234"}
+Completed: 400 message:  Time response: 10 ms Request ID: [3808979c-3cea-41c6-abb3-5b9a0ed025fa]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:12:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"","password":"1234"}
+Completed: 400 message:  Time response: 36 ms Request ID: [ca813257-7fff-48ce-890c-60ede379d393]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:13:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admi","password":"1234"}
+Completed: 400 message:  Time response: 13 ms Request ID: [db2c9404-b3d4-4e56-a3d4-a71b06436391]
+
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:20:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 269 ms Request ID: [b254caff-c2e6-4b14-b05e-62fcab383b8d]
+
+Started GET /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:20:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 52 ms Request ID: [b419f48e-d3f7-4114-ba12-a5e5929e3265]
+
+Started GET /api/v1/equipos/3/jugadore for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:20:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 14 ms Request ID: [90a8b5ce-6ed1-4414-8fb6-901498016045]
+
+Started GET /api/v1/equipos/3/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:20:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 183 ms Request ID: [7cf24b94-6197-43ab-a12c-f169d7f7f9dc]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:21:19 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 200 message:  Time response: 16 ms Request ID: [0db7de0f-dd6f-4ecb-80f4-10b9f22a2226]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:25:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"REAL MADRID"}
+Completed: 201 message:  Time response: 219 ms Request ID: [3f02e8b7-82df-4af0-b72a-5a6425a99cb8]
+
+Started GET /api/v1/equipos for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:25:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 200 ms Request ID: [d46b32aa-26fe-48ed-ba90-9fe23ca0b750]
+
+Started POST /api/v1/equipos/6/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:26:41 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"CRISTIANO RONALDO","id_position":1}
+Completed: 201 message:  Time response: 228 ms Request ID: [8235715a-9b03-439e-9414-67adafee5218]
+
+Started GET /api/v1/equipos/6/jugadores for :: ::ffff:127.0.0.1 at Thu Feb 08 2024 18:26:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 201 ms Request ID: [36b5419b-5fc5-4fee-b690-60e6fff4f2a3]

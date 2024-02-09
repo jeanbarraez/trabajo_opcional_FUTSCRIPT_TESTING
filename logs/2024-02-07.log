@@ -1,0 +1,36 @@
+
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 17:49:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"jugador lolo","position":4}
+Completed: 401 message:  Time response: 95 ms Request ID: [eefb3e87-bfb1-4f8c-afbc-b2143a2d63a8]
+
+Started POST /api/v1/equipos for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 17:52:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"Super equipo"}
+Completed: 401 message:  Time response: 7 ms Request ID: [3ef4406d-13c4-47b5-86dc-159033b38cd8]
+
+Started POST /api/v1/equipos/4/jugadores for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:04:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"jugador lolo","id_position":4}
+Completed: 401 message:  Time response: 10 ms Request ID: [3b68b40e-18d0-4bc4-9e57-cbe73808c52d]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:30:19 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 404 message:  Time response: 50 ms Request ID: [435fcc65-9b49-4f49-a20e-b80999bf1a6c]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:41:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 404 message:  Time response: 35 ms Request ID: [e6f34f52-7943-4cba-9450-823b7bc565d2]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:42:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 500 message:  Time response: 48 ms Request ID: [2d7944b5-6fa2-4b6c-977c-ec9ccda2ee91]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:51:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 500 message:  Time response: 54 ms Request ID: [fe3e645a-a1c6-4ec8-8a4c-3da87a82f0dc]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:53:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 500 message:  Time response: 86 ms Request ID: [ba4f73be-be64-4f3c-844a-cef669ef3d88]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Wed Feb 07 2024 18:59:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"username":"admin","password":"1234"}
+Completed: 400 message:  Time response: 42 ms Request ID: [3127802a-01ef-4bad-8678-920065f144e8]
